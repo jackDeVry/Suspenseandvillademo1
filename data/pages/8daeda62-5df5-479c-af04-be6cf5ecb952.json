@@ -1,0 +1,83 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Here is a side by side comparison of both films:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "0ca4dc29-bd37-4d8b-9b24-bec4f68483ce"
+      },
+      "event2": {
+        "uuid": "04e4b7c4-fdd4-44e7-a411-ae2081d59754"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Side by Side",
+  "parent": "9db80316-b3a1-4dd4-8ad9-51e2141e56a1",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "side-by-side",
+  "created_at": "2026-08-24T22:26:33.961Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-08-24T22:26:33.961Z",
+  "updated_by": "jackDeVry"
+}
