@@ -1,1 +1,110 @@
-{"publish":{"publish_pages_app":true,"publish_static_site":false,"publish_sha":"","publish_iso_date":"","include_slug_in_base":true},"users":[{"login_name":"jackDeVry","avatar_url":"https://avatars.githubusercontent.com/u/181752547?v=4","admin":true}],"project":{"github_org":"jackDeVry","is_private":false,"title":"Suspense & Villa Demo 1","description":"Here it is!","language":"en","slug":"Suspenseandvillademo1","creator":"jackDeVry","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Film Analysis","color":"#ADFFD9"},{"category":"Titles","color":"#ADFEFF"},{"category":"Transcript","color":"#99E6FF"}],"tags":[{"tag":"Notes","category":"Film Analysis"},{"tag":"Use of Mirror","category":"Film Analysis"},{"tag":"Cinematography","category":"Film Analysis"},{"tag":"Description","category":"Film Analysis"},{"tag":"Narrative Building","category":"Film Analysis"},{"tag":"Title","category":"Titles"},{"tag":"Insert Shot","category":"Titles"},{"tag":"Closing Title Card","category":"Titles"},{"tag":"Cast Card","category":"Titles"},{"tag":"Intertitle","category":"Transcript"}]},"created_at":"2026-08-24T22:15:27.509Z","updated_at":"2026-08-24T22:26:34.493Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"0b25f579-c68a-4c93-a9b7-95fc2def999d":{"content":[],"created_at":"2026-08-24T22:15:27.550Z","created_by":"jackDeVry","title":"Suspense & Villa Demo 1","updated_at":"2026-08-24T22:15:27.550Z","updated_by":"jackDeVry","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["0b25f579-c68a-4c93-a9b7-95fc2def999d"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_static_site": false,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "include_slug_in_base": true
+  },
+  "users": [
+    {
+      "login_name": "jackDeVry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181752547?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "jackDeVry",
+    "is_private": false,
+    "title": "Suspense & Villa Demo 1",
+    "description": "Here it is!",
+    "language": "en",
+    "slug": "Suspenseandvillademo1",
+    "creator": "jackDeVry",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Film Analysis",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Titles",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Transcript",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Use of Mirror",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Description",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Narrative Building",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Title",
+          "category": "Titles"
+        },
+        {
+          "tag": "Insert Shot",
+          "category": "Titles"
+        },
+        {
+          "tag": "Closing Title Card",
+          "category": "Titles"
+        },
+        {
+          "tag": "Cast Card",
+          "category": "Titles"
+        },
+        {
+          "tag": "Intertitle",
+          "category": "Transcript"
+        }
+      ]
+    },
+    "created_at": "2026-08-24T22:15:27.509Z",
+    "updated_at": "2026-08-24T22:46:55.270Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "0b25f579-c68a-4c93-a9b7-95fc2def999d": {
+      "content": [],
+      "created_at": "2026-08-24T22:15:27.550Z",
+      "created_by": "jackDeVry",
+      "title": "Suspense & Villa Demo 1",
+      "updated_at": "2026-08-24T22:15:27.550Z",
+      "updated_by": "jackDeVry",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "0b25f579-c68a-4c93-a9b7-95fc2def999d"
+  ]
+}
