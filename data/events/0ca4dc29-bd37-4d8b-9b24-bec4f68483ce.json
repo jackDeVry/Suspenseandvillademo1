@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "fef6588c-bf65-47c3-9142-3f2e5755ab63": {
+      "label": "Film 1",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=J-ZDESCVt9I&ab_channel=JamesBradfordHuston",
+      "duration": 616
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Suspense Film",
+  "created_at": "2026-08-24T22:16:57.122Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-08-24T22:16:57.122Z",
+  "updated_by": "jackDeVry"
+}
