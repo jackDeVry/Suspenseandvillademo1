@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "5be7709f-4092-408b-9072-a4911c824e8f": {
+      "label": "Film 2",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://dn711200.ca.archive.org/0/items/the-lonely-villa-1909/The-Lonely-Villa-1909.mp4",
+      "duration": 701
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Lonely Villa Film",
+  "created_at": "2026-08-24T22:17:47.950Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-08-24T22:17:47.950Z",
+  "updated_by": "jackDeVry"
+}
