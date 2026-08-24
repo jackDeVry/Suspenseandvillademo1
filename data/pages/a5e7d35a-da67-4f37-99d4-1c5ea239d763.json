@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "Suspense Film",
   "slug": "suspense-film",
-  "updated_at": "2026-08-24T22:16:57.334Z",
+  "updated_at": "2026-08-24T22:47:15.881Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "0ca4dc29-bd37-4d8b-9b24-bec4f68483ce"
-  }
+  },
+  "parent": "9db80316-b3a1-4dd4-8ad9-51e2141e56a1"
 }
