@@ -38,7 +38,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n"
+          "text": "\nFor more information look "
+        },
+        {
+          "text": "here",
+          "link": "https://en.wikipedia.org/wiki/Louis_Oscar_Griffith"
+        },
+        {
+          "text": "!\n"
         }
       ]
     }
@@ -51,6 +58,6 @@
   "slug": "introduction",
   "created_at": "2026-08-24T22:25:43.296Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-24T22:26:00.487Z",
+  "updated_at": "2026-11-05T19:27:30.271Z",
   "updated_by": "jackDeVry"
 }
