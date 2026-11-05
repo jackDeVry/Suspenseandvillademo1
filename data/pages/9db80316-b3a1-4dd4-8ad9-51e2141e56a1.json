@@ -17,6 +17,26 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "To look at the Suspense film with its annotaitons, look here! "
+        },
+        {
+          "text": "HERE",
+          "link": "https://jackdevry.github.io/Suspenseandvillademo1/events/suspense-film/"
+        }
+      ]
+    },
+    {
       "type": "image",
       "url": "https://m.media-amazon.com/images/M/MV5BYjFjODE3ZmEtNThkZC00MzIzLThhOTgtOGZiYWI4ZWE3NDA0XkEyXkFqcGc@._V1_.jpg",
       "caption": "(Image from iMDb)",
@@ -45,7 +65,31 @@
           "link": "https://en.wikipedia.org/wiki/Louis_Oscar_Griffith"
         },
         {
-          "text": "!\n"
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -58,6 +102,6 @@
   "slug": "introduction",
   "created_at": "2026-08-24T22:25:43.296Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-11-05T19:27:30.271Z",
+  "updated_at": "2026-11-05T19:28:13.361Z",
   "updated_by": "jackDeVry"
 }
